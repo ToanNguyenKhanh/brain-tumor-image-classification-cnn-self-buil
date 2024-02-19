@@ -43,9 +43,9 @@ The CNN architecture employed in this project is designed to effectively learn f
 
 7. **Demo** 
    
-![Demo Screenshot](demo/demo1.png)
-![Demo Screenshot](demo/demo2.png)
-![Demo Screenshot](demo/demo3.png)
+![Demo Screenshot](demo/confusion_matrix.png)
+![Demo Screenshot](demo/demo.png)
+![Demo Screenshot](demo/tensorboard.png)
 
 
 ## References:
