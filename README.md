@@ -6,22 +6,26 @@ This project focuses on the classification of brain tumor images using Convoluti
 ## Dataset:
 The dataset used in this project consists of MRI images of the brain, with corresponding labels indicating the presence or absence of tumors. It is important to note that obtaining such datasets may involve compliance with ethical and legal regulations.
 
+You can download the dataset from [here](https://universe.roboflow.com/biomedical-engineering-mansoura-university/brain-tumor-dsxqq).
+
+
 ## Model Architecture:
 The CNN architecture employed in this project is designed to effectively learn features from the input MRI images. It typically consists of convolutional layers for feature extraction, followed by pooling layers for dimensionality reduction, and fully connected layers for classification.
 
 ## Implementation Details:
-1. **Data Preprocessing**: Before feeding the images into the network, preprocessing steps such as normalization, resizing, and augmentation might be applied to enhance the model's performance.
+1. **Data Preprocessing**: Before feeding the images into the network, preprocessing steps such as normalization, resizing,... might be applied to enhance the model's performance.
 2. **Model Training**: The CNN model is trained using the labeled dataset. During training, the model learns to classify images into tumor and non-tumor classes by adjusting its parameters to minimize a defined loss function.
 3. **Model Evaluation**: The trained model's performance is evaluated using metrics such as accuracy, precision, recall, and F1-score on a separate test set.
 4. **Model Optimization**: Techniques like hyperparameter tuning, regularization, and optimization algorithms may be employed to improve the model's performance and generalization ability.
 5. **Deployment**: Once the model achieves satisfactory performance, it can be deployed in real-world applications to classify brain tumor images automatically.
 
 ## Dependencies:
-- Python
-- TensorFlow/Keras (or any other deep learning framework)
+- Python 3.11
+- Pytorch 2.1.2
+- Tensorboard
 - Numpy
 - Matplotlib (for visualization)
-- PIL (Python Imaging Library) or OpenCV (for image processing)
+- OpenCV (for image processing)
 
 ## Usage:
 1. Clone the repository.
@@ -39,11 +43,10 @@ The CNN architecture employed in this project is designed to effectively learn f
 - The model's performance might vary based on factors such as dataset size, quality, and diversity.
 - Continuous monitoring and updating of the model might be necessary to adapt to new data and improve performance over time.
 
-## Contributors:
-- List the contributors involved in developing this project along with their roles.
+## Contributing
 
-## License:
-- Specify the license under which the project code and resources are distributed (e.g., MIT License, Apache License, etc.).
+Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
-## Contact:
-- Provide contact information for inquiries, collaborations, or support related to the project.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
