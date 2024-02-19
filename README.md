@@ -7,7 +7,7 @@ This project focuses on the classification of brain tumor images using Convoluti
   <img src="demo/result_demo.gif" alt="Demo video">
 </p>
 
-<p align="center"><em>Result</em></p>
+<p align="center"><em>Result</em></p> 
 
 ## Dataset:
 The dataset used in this project consists of MRI images of the brain, with corresponding labels indicating the presence or absence of tumors. It is important to note that obtaining such datasets may involve compliance with ethical and legal regulations.
