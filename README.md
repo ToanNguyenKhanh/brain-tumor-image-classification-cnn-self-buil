@@ -41,6 +41,13 @@ The CNN architecture employed in this project is designed to effectively learn f
 5. Evaluate the model's performance and fine-tune as necessary.
 6. Deploy the model for inference on new brain tumor images.
 
+7. **Demo** 
+   
+![Demo Screenshot](demo/demo1.png)
+![Demo Screenshot](demo/demo2.png)
+![Demo Screenshot](demo/demo3.png)
+
+
 ## References:
 - Mention any relevant papers, articles, or resources used for inspiration, guidance, or implementation details.
 
