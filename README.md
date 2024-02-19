@@ -41,20 +41,12 @@ The CNN architecture employed in this project is designed to effectively learn f
 5. Evaluate the model's performance and fine-tune as necessary.
 6. Deploy the model for inference on new brain tumor images.
 
-7. **Demo** 
-   
-![Demo Screenshot](demo/confusion_matrix.png)
+7. Demo
+
 ![Demo Screenshot](demo/demo.png)
 ![Demo Screenshot](demo/tensorboard.png)
+![Demo Screenshot](demo/confusion_matrix.png)
 
-
-## References:
-- Mention any relevant papers, articles, or resources used for inspiration, guidance, or implementation details.
-
-## Note:
-- It's important to handle medical data ethically and with proper consent.
-- The model's performance might vary based on factors such as dataset size, quality, and diversity.
-- Continuous monitoring and updating of the model might be necessary to adapt to new data and improve performance over time.
 
 ## Contributing
 
