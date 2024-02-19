@@ -3,6 +3,12 @@
 ## Overview:
 This project focuses on the classification of brain tumor images using Convolutional Neural Networks (CNNs). The aim is to develop a robust model capable of accurately identifying whether an input MRI image contains a tumor or not.
 
+<p align="center">
+  <img src="demo/result_demo.gif" alt="Demo video">
+</p>
+
+<p align="center"><em>Result</em></p>
+
 ## Dataset:
 The dataset used in this project consists of MRI images of the brain, with corresponding labels indicating the presence or absence of tumors. It is important to note that obtaining such datasets may involve compliance with ethical and legal regulations.
 
